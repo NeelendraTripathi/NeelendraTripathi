@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm NeelendraTripathi</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **python programming**
+
+👋 Hi, I’m Neelendra Tripathi — a passionate Full-Stack Developer .
+💻 I love building web applications using HTML, CSS, JavaScript, ReactJS, and Python.
+🚀 I’ve created projects like an Amazon clone, jewelry website, e-commerce site, and more.
+🎯 Always learning, coding, and improving every day!
 
 - 📫 How to reach me **nilendratripathi100@gmail.com**
 
