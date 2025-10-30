@@ -1,18 +1,15 @@
 
-
 👋 Hi, I’m Neelendra Tripathi — a passionate Full-Stack Developer .
 💻 I love building web applications using HTML, CSS, JavaScript, ReactJS, and Python.
 🚀 I’ve created projects like an Amazon clone, jewelry website, e-commerce site, and more.
 🎯 Always learning, coding, and improving every day!
 
-- 📫 How to reach me **nilendratripathi100@gmail.com**
+
+📫 How to reach me **nilendratripathi100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nilendratripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nilendratripathi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/neelendra tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neelendra tripathi" height="30" width="40" /></a>
-<a href="https://fb.com/nilendra tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nilendra tripathi" height="30" width="40" /></a>
-<a href="https://instagram.com/nilendra tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilendra tripathi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/neelendra tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neelendra tripathi" height="30" width="40" /></a>
 </p>
 
